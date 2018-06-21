@@ -1,13 +1,9 @@
 ---
 layout: page
 title: .. 
-subtitle: What is Systems NMR? 
+subtitle: Publications using NMR for reconstruction of reaction networks 
 ---
 
-S N i a m w p q r o b n.
-Key features o l m:
+### Квонтитатив
 
-### 1. Comb b n o
-..
-### 2. An m o r t
-..
+### Кволитатив
