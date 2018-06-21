@@ -23,7 +23,7 @@ description: NMR-driven biomolecular network reconstructions
 
 # List of links in the navigation bar
 navbar-links:
-  About SysNMR: "aboutme"
+  What is Systems NMR?: "aboutme"
   NMR models: "catalog"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -72,7 +72,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+#  rss: true
   email: "systemsnmr ~ gмаil ~ com"
 #  facebook: daattali
   github: systemsnmr
@@ -100,7 +100,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "systemsnmr.org"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "systemsnmr.org"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
