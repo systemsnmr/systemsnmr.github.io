@@ -23,8 +23,8 @@ description: NMR-driven biomolecular network reconstructions
 
 # List of links in the navigation bar
 navbar-links:
-  About SysNMR: "about"
   NMR models: "catalog"
+#  About SysNMR: "about" ## RETURN and POLISH THIS ONE WHEN KNOW ITS GONNA BE ACCEPTED
 #  l2: "cat2"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
