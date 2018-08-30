@@ -150,6 +150,10 @@ highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
 
+# Added @YN - 20180830 - after moving the default blogging index.html to blog/index.html
+# based on suggestions in https://github.com/systemsnmr/systemsnmr.github.io#how-do-i-move-the-blog-to-another-page-instead-of-having-it-on-the-home-page
+paginate_path: "/blog/page:num/"
+
 kramdown:
   input: GFM
 
