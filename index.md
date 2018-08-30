@@ -1,0 +1,387 @@
+---
+layout: page
+title: .. 
+subtitle: Publications using NMR for reconstruction of reaction networks 
+---
+
+<style>
+table, th, td {
+	border: 1px dotted;
+	font-size: 14px;
+}
+
+.cell_highlight {
+	background-color:DEEFDE
+}
+
+</style>
+
+<table style="text-align:center" cellspacing="0" cellpadding="5">
+	<tr>
+		<!-- set rowspans to 2 - after including the titles of columns back-->
+		<th rowspan="2"></th>
+		<th rowspan="2">Title</th>
+		<th rowspan="2">Model type</th>
+		<th colspan="6">Model components</th>
+	</tr>
+	<tr>
+		<th width=10>.</th>
+		<th width=10>.</th>
+		<th width=10>.</th>
+		<th width=10>.</th>
+		<th width=10>.</th>
+		<th width=10>.</th>
+	</tr>
+	<tr>
+		<th colspan="9" style="text-align:left; background-color:DEEFDE">Quantitative reaction model</th>
+	</tr>	
+	<tr>
+		<td><a href="https://www.ncbi.nlm.nih.gov/pubmed/23171049">
+			Cordier, 2012</a></td> <!-- Author, year -->
+		<td>Ordered Phosphorylation Events in Two Independent Cascades of the PTEN C‐tail Revealed by NMR</td> <!-- Title -->
+		<td>analytical</td> <!-- Math model-->
+		<td class="cell_highlight">+</td> <!-- P -->
+		<td></td> <!-- M -->
+		<td></td> <!-- R -->
+		<td class="cell_highlight">+</td> <!-- (PTM) --> <!-- cat -->
+		<td></td> <!-- uni -->
+		<td></td> <!-- bi -->
+	</tr>
+	<tr>
+		<td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25076213">Meier, 2014</a></td> <!-- Author, year -->
+		<td>Simultaneous Determination of Binding Constants for Multiple Carbohydrate Hosts in Complex Mixtures</td> <!-- Title -->
+		<td>analytical</td> <!-- Math model-->
+		<td></td> <!-- P -->
+		<td class="cell_highlight">+</td> <!-- M -->
+		<td></td> <!-- R -->
+		<td></td> <!-- cat -->
+		<td></td> <!-- uni -->
+		<td class="cell_highlight">+</td> <!-- bi -->
+	</tr>
+	<tr>
+		<td>xx, xx</a></td> <!-- Author, year -->
+		<td></td> <!-- Title -->
+		<td>ODE</td> <!-- Math model-->
+		<td class="cell_highlight">+</td> <!-- P -->
+		<td class="cell_highlight">+</td> <!-- M -->
+		<td class="cell_highlight">+</td> <!-- R -->
+		<td class="cell_highlight">+</td> <!-- cat -->
+		<td class="cell_highlight">+</td> <!-- uni -->
+		<td class="cell_highlight">+</td> <!-- bi -->
+	</tr>
+	<tr>
+		<td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3901242/">Eichler, 2012</a></td> <!-- Author, year -->
+		<td>Determining Enzyme Kinetics for Systems Biology with Nuclear Magnetic Resonance Spectroscopy</td> <!-- Title -->
+		<td>analytical</td> <!-- Math model-->
+		<td></td> <!-- P -->
+		<td class="cell_highlight">+</td> <!-- M -->
+		<td></td> <!-- R -->
+		<td class="cell_highlight">+</td> <!-- cat -->
+		<td></td> <!-- uni -->
+		<td></td> <!-- bi -->
+	</tr>
+	<tr>
+		<td><a href="https://www.ncbi.nlm.nih.gov/pubmed/23011410">Theillet 2012</a></td> <!-- Author, year -->
+		<td>Cell signaling, post-translational protein modifications and NMR spectroscopy</td> <!-- Title -->
+		<td>(review)</td> <!-- Math model-->
+		<td class="cell_highlight">+</td> <!-- P -->
+		<td></td> <!-- M -->
+		<td></td> <!-- R -->
+		<td class="cell_highlight">+</td> <!-- (PTM) --> <!-- cat -->
+		<td></td> <!-- uni -->
+		<td></td> <!-- bi -->
+	</tr>
+	<tr>
+		<td><a href="https://www.ncbi.nlm.nih.gov/pubmed/23807285">Theillet 2013</a></td> <!-- Author, year -->
+		<td>Site-specific NMR mapping and time-resolved monitoring of serine and threonine phosphorylation in reconstituted kinase reactions and mammalian cell extracts</td> <!-- Title -->
+		<td>ODE</td> <!-- Math model-->
+		<td class="cell_highlight">+</td> <!-- P -->
+		<td></td> <!-- M -->
+		<td></td> <!-- R -->
+		<td class="cell_highlight">+</td> <!-- (PTM) --> <!-- cat -->
+		<td></td> <!-- uni -->
+		<td></td> <!-- bi -->
+	</tr>
+	<tr>
+		<td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25963544">Thongwichian 2015</a></td> <!-- Author, year -->
+		<td>A Multiplexed NMR-Reporter Approach to Measure Cellular Kinase and Phosphatase Activities in Real-Time</td> <!-- Title -->
+		<td>ODE</td> <!-- Math model-->
+		<td class="cell_highlight">+</td> <!-- P -->
+		<td></td> <!-- M -->
+		<td></td> <!-- R -->
+		<td class="cell_highlight">+</td> <!-- (PTM) --> <!-- cat -->
+		<td></td> <!-- uni -->
+		<td></td> <!-- bi -->
+	</tr>
+	<tr>
+		<td><a href="https://www.ncbi.nlm.nih.gov/pubmed/23842498">Reining 2013 - EXCLUDE - NOT QUITE NMR?</a></td> <!-- Author, year -->
+		<td>Three-state mechanism couples ligand and temperature sensing in riboswitches</td> <!-- Title -->
+		<td>analytical</td> <!-- Math model-->
+		<td></td> <!-- P -->
+		<td></td> <!-- M -->
+		<td class="cell_highlight">+</td> <!-- R -->
+		<td></td> <!-- cat -->
+		<td class="cell_highlight">+</td> <!-- uni -->
+		<td class="cell_highlight">+</td> <!-- bi -->
+	</tr>
+	
+	
+	<tr>
+		<td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27680939">Balbach 1996</a></td> <!-- Author, year -->
+		<td>Protein Folding Monitored at Individual Residues During a Two-Dimensional NMR Experiment</td> <!-- Title -->
+		<td>ODE</td> <!-- Math model-->
+		<td class="cell_highlight">+</td> <!-- P -->
+		<td></td> <!-- M -->
+		<td></td> <!-- R -->
+		<td></td> <!-- cat -->
+		<td class="cell_highlight">+</td>
+		<td></td> <!-- bi -->
+	</tr>
+	<tr>
+		<td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27680939">Semenov 2016</a></td> <!-- Author, year -->
+		<td>Autocatalytic, bistable, oscillatory networks of biologically relevant organic reactions</td> <!-- Title -->
+		<td>ODE</td> <!-- Math model-->
+		<td></td> <!-- P -->
+		<td class="cell_highlight">+</td> <!-- M -->
+		<td></td> <!-- R -->
+		<td class="cell_highlight">+</td> <!-- cat -->
+		<td></td> <!-- uni -->
+		<td></td> <!-- bi -->
+	</tr>
+	<tr>
+		<td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25867044">Rosenthal 2015</a></td> <!-- Author, year -->
+		<td>The use of ene adducts to study and engineer enoyl-thioester reductases</td> <!-- Title -->
+		<td>ODE</td> <!-- Math model-->
+		<td></td> <!-- P -->
+		<td class="cell_highlight">+</td> <!-- M -->
+		<td></td> <!-- R -->
+		<td class="cell_highlight">+</td> <!-- cat -->
+		<td></td> <!-- uni -->
+		<td></td> <!-- bi -->
+	</tr>
+	<tr>
+		<td><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/mrc.4436">MRC special issue 2016</a></td> <!-- Author, year -->
+		<td>Reaction monitoring using NMR</td> <!-- Title -->
+		<td>(editorial)</td> <!-- Math model-->
+		<td></td> <!-- P -->
+		<td class="cell_highlight">+</td> <!-- M -->
+		<td></td> <!-- R -->
+		<td class="cell_highlight">+</td> <!-- cat -->
+		<td></td> <!-- uni -->
+		<td></td> <!-- bi -->
+	</tr>
+	<tr>
+		<td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25084065">Lerche 2015</a></td> <!-- Author, year -->
+		<td>NMR insights into the inner workings of living cells</td> <!-- Title -->
+		<td>(review)</td> <!-- Math model-->
+		<td></td> <!-- P -->
+		<td class="cell_highlight">+</td> <!-- M -->
+		<td></td> <!-- R -->
+		<td class="cell_highlight">+</td> <!-- cat -->
+		<td></td> <!-- uni -->
+		<td></td> <!-- bi -->
+	</tr>
+	<tr>
+		<td><a href="xxx">xxx</a></td> <!-- Author, year -->
+		<td>xxx</td> <!-- Title -->
+		<td></td> <!-- Math model-->
+		<td></td> <!-- P -->
+		<td></td> <!-- M -->
+		<td></td> <!-- R -->
+		<td></td> <!-- cat -->
+		<td></td> <!-- uni -->
+		<td></td> <!-- bi -->
+	</tr>	
+
+<!-- ============================================================================================ -->
+<!-- ============================================================================================ -->
+<!-- ============================================================================================ -->
+
+	<tr>
+		<th colspan="9" style="text-align:left; background-color:DEEFDE">few reactions</th>
+	</tr>	
+	<tr>
+		<td>Harris, 2013</td> <!-- Author, year -->
+		<td>Hyperpolarized 13C NMR studies of glucose metabolism in living breast cancer cell cultures</td> <!-- Title -->
+		<td>analytical</td> <!-- Math model-->
+		<td></td> <!-- P -->
+		<td class="cell_highlight">+</td> <!-- M -->
+		<td></td> <!-- R -->
+		<td class="cell_highlight">+</td> <!-- cat -->
+		<td></td> <!-- uni -->
+		<td></td> <!-- bi -->
+	</tr>
+	<tr>
+		<td><a href="https://pubs.acs.org/doi/10.1021/ja312415q">Maltsev 2013</a></td> <!-- Author, year -->
+		<td>Site-Specific Interaction between α-Synuclein and Membranes Probed by NMR-Observed Methionine Oxidation Rates</td> <!-- Title -->
+		<td>ODE</td> <!-- Math model-->
+		<td class="cell_highlight">+</td> <!-- P -->
+		<td></td> <!-- M -->
+		<td></td> <!-- R -->
+		<td class="cell_highlight">+</td> <!-- (PTM) --> <!-- cat -->
+		<td></td> <!-- uni -->
+		<td></td> <!-- bi -->
+	</tr>
+	<tr>
+		<td><a href="http://www.jbc.org/content/285/8/5137">Gasmi-Seabrook 2010</a></td> <!-- Author, year -->
+		<td>Real-time NMR Study of Guanine Nucleotide Exchange and Activation of RhoA by PDZ-RhoGEF</td> <!-- Title -->
+		<td>ODE</td> <!-- Math model-->
+		<td class="cell_highlight">+</td> <!-- P -->
+		<td></td> <!-- M -->
+		<td></td> <!-- R -->
+		<td></td> <!-- (PTM) --> <!-- cat -->
+		<td class="cell_highlight">+</td> <!-- uni -->
+		<td></td> <!-- bi -->
+	</tr>
+	<tr>
+		<td><a href="http://www.jbc.org/content/288/18/12979.full.pdf?with-ds=yes">Hoffmann-Thoms 2013</a></td> <!-- Author, year -->
+		<td>Initiation of Phage Infection by Partial Unfolding and Prolyl Isomerization</td> <!-- Title -->
+		<td>analytical</td> <!-- Math model-->
+		<td class="cell_highlight">+</td> <!-- P -->
+		<td></td> <!-- M -->
+		<td></td> <!-- R -->
+		<td></td> <!-- (PTM) --> <!-- cat -->
+		<td class="cell_highlight">+</td> <!-- uni -->
+		<td class="cell_highlight">+</td> <!-- bi -->
+	</tr>		
+	<tr>
+		<td><a href="https://elifesciences.org/articles/32764#s4">Sekhar, 2018</a></td> <!-- Author, year -->
+		<td>Conserved conformational selection mechanism of Hsp70 chaperone-substrate interactions</td> <!-- Title -->
+		<td>analytical</td> <!-- Math model-->
+		<tdclass="cell_highlight">+</td> <!-- P -->
+		<td></td> <!-- M -->
+		<td></td> <!-- R -->
+		<td></td> <!-- cat -->
+		<td class="cell_highlight">+</td> <!-- uni -->
+		<td class="cell_highlight">+</td> <!-- bi -->
+	</tr>
+	
+
+<!-- ============================================================================================ -->
+<!-- ============================================================================================ -->
+<!-- ============================================================================================ -->
+	
+	<tr>
+		<th colspan="9" style="text-align:left; background-color:DEEFDE">W/o reaction model</th>
+	</tr>	
+	<tr>
+		<td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24441586">Smith, 2014</a></td> <!-- Author, year -->
+		<td>Integrated RAS Signaling Defined by Parallel NMR Detection of Effectors and Regulators</td> <!-- Title -->
+		<td></td> <!-- Math model-->
+		<td class="cell_highlight">+</td> <!-- P -->
+		<td class="cell_highlight">+</td> <!-- M -->
+		<td></td> <!-- R -->
+		<td class="cell_highlight">+</td> <!-- cat -->
+		<td></td> <!-- uni - THEY LOOKED CONFORMATION CHANGE?! >> No just at binding of GTP/GDP! -->
+		<td class="cell_highlight">+</td> <!-- bi -->
+	</tr>
+	<tr>
+		<td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24441771">Meier, 2014</a></td> <!-- Author, year -->
+		<td>Hyperpolarized NMR probes for biological assays</td> <!-- Title -->
+		<td>(review)</td> <!-- Math model-->
+		<td></td> <!-- P -->
+		<td class="cell_highlight">+</td> <!-- M -->
+		<td></td> <!-- R -->
+		<td class="cell_highlight">+</td> <!-- cat -->
+		<td></td> <!-- uni -->
+		<td></td> <!-- bi -->
+	</tr>	
+	<tr>
+		<td><a href="https://www.ncbi.nlm.nih.gov/pubmed/23360766">Rose 2013</a></td> <!-- Author, year -->
+		<td>Quantitative NMR analysis of Erk activity and inhibition by U0126 in a panel of patient-derived colorectal cancer cell lines</td> <!-- Title -->
+		<td></td> <!-- Math model-->
+		<td class="cell_highlight">+</td> <!-- P -->
+		<td></td> <!-- M -->
+		<td></td> <!-- R -->
+		<td class="cell_highlight">+</td> <!-- cat -->
+		<td></td> <!-- uni -->
+		<td></td> <!-- bi -->
+	</tr>
+	<tr>
+		<td><a href="https://link.springer.com/content/pdf/10.1007%2Fs00253-014-5847-8.pdf">Xue 2014</a></td> <!-- Author, year -->
+		<td>New generation NMR bioreactor coupled with high-resolution NMR spectroscopy leads to novel discoveries in Moorella thermoacetica metabolic profiles</td> <!-- Title -->
+		<td></td> <!-- Math model-->
+		<td></td> <!-- P -->
+		<td class="cell_highlight">+</td> <!-- M -->
+		<td></td> <!-- R -->
+		<td class="cell_highlight">+</td> <!-- cat -->
+		<td></td> <!-- uni -->
+		<td></td> <!-- bi -->
+	</tr>
+	<tr>
+		<td><a href="https://pubs.acs.org/doi/pdf/10.1021/ja106764y">Liokatis 2010</a></td> <!-- Author, year -->
+		<td>Simultaneous Detection of Protein Phosphorylation and Acetylation by High-Resolution NMR Spectroscopy</td> <!-- Title -->
+		<td></td> <!-- Math model-->
+		<td class="cell_highlight">+</td> <!-- P -->
+		<td></td> <!-- M -->
+		<td></td> <!-- R -->
+		<td class="cell_highlight">+</td> <!-- cat -->
+		<td></td> <!-- uni -->
+		<td></td> <!-- bi -->
+	</tr>
+	<tr>
+		<td><a href="http://stke.sciencemag.org/content/2/55/ra3">Marshall 2009</a></td> <!-- Author, year -->
+		<td>Characterization of the Intrinsic and TSC2-GAP–Regulated GTPase Activity of Rheb by Real-Time NMR</td> <!-- Title -->
+		<td></td> <!-- Math model-->
+		<td class="cell_highlight">+</td> <!-- P -->
+		<td></td> <!-- M -->
+		<td></td> <!-- R -->
+		<td class="cell_highlight">+</td> <!-- cat -->
+		<td class="cell_highlight">+</td> <!-- uni -->
+		<td></td> <!-- bi -->
+	</tr>
+	<tr>
+		<td><a href="http://www.pnas.org/content/pnas/110/12/4574.full.pdf">Smith 2013</a></td> <!-- Author, year -->
+		<td>NMR-based functional profiling of RASopathies and oncogenic RAS mutations</td> <!-- Title -->
+		<td></td> <!-- Math model-->
+		<td class="cell_highlight">+</td> <!-- P -->
+		<td class="cell_highlight">+</td> <!-- P -->
+		<td></td> <!-- R -->
+		<td class="cell_highlight">+</td> <!-- cat -->
+		<td>+</td> <!-- uni -->
+		<td></td> <!-- bi -->
+	</tr>
+	<tr>
+		<td><a href="https://www.sciencedirect.com/science/article/pii/S0167779900014256">Brecker 2000</a></td> <!-- Author, year -->
+		<td>Biotransformations monitored in situ by proton nuclear magnetic resonance spectroscopy</td> <!-- Title -->
+		<td></td> <!-- Math model-->
+		<td></td> <!-- P -->
+		<td class="cell_highlight">+</td> <!-- M -->
+		<td></td> <!-- R -->
+		<td class="cell_highlight">+</td> <!-- cat -->
+		<td></td> <!-- uni -->
+		<td></td> <!-- bi -->
+	</tr>
+	
+	<tr>
+		<td>xxx</td> <!-- Author, year -->
+		<td>xxx</td> <!-- Title -->
+		<td></td> <!-- Math model-->
+		<td></td> <!-- P -->
+		<td></td> <!-- M -->
+		<td></td> <!-- R -->
+		<td></td> <!-- cat -->
+		<td></td> <!-- uni -->
+		<td></td> <!-- bi -->
+	</tr>
+</table>
+<br/>
+
+<h4>== Other papers of interest ==</h4>
+<table style="text-align:center" cellspacing="0" cellpadding="5">	
+	<tr>
+		<th></th>
+		<th>Title</th>
+		<th>Note</th>
+	</tr>	
+	<tr>
+		<td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27123740">Jimenez-Moreno, 2016</a></td> <!-- Author, year -->
+		<td>Finding the Right Candidate for the Right Position: A Fast NMR-Assisted Combinatorial Method for Optimizing Nucleic Acids Binders</td> <!-- Title -->
+		<td>multiplexing, small molecules, nucleic acids</td> <!-- Note -->
+	</tr>
+	<tr>
+		<td></td> <!-- Author, year -->
+		<td></td> <!-- Title -->
+		<td></td> <!-- Note-->
+	</tr>
+</table>
