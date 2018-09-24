@@ -11,6 +11,10 @@ layout: null
 	text-align: center;
 }
 
+.img-thumbnail {
+    width: 170px;    
+}
+
 
 /* --- General --- */
 
