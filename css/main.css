@@ -9,6 +9,7 @@ layout: null
 .cell_highlight {
 	background-color: DEEFDE;
 	text-align: center;
+	font-size: 22px;
 }
 
 /* this seems inter-playing with the settings in the main html file
