@@ -4,7 +4,7 @@ title: Tools
 subtitle: Computational tools for Systems NMR ( NMR-driven analysis and modeling of networks )
 ---
 
-### ETH Zurich (Y.Nikolaev / F.Allain group)
+#### [ETH Zürich (Y.Nikolaev / F.Allain group)](http://www.allainlab.ethz.ch/people/person-detail.html?persid=125247))
 
 #### NMR mapper
 - [Automatic analysis of NMR titrations](http://sitemapper.nmrhub.eu)
