@@ -1,11 +1,12 @@
 ---
 layout: page
-title: .. 
-subtitle: What is Systems NMR? 
+title: ..
+subtitle: What is Systems NMR?
 ---
 
-S N i a m w p q r o b n.
-Key features o l m:
+Systems NMR is a method for quantitative analysis of biomolecular networks, which combines Nuclear Magnetic Resonance spectroscopy with mathematical modeling. The concept was developed at [ETH Zürich](http://www.allainlab.ethz.ch/people/person-detail.html?persid=125247).
+
+Key features of the method:
 
 ### 1. Comb b n o
 ..
