@@ -4,7 +4,7 @@ title: ..
 subtitle: What is Systems NMR?
 ---
 
-Systems NMR combines Nuclear Magnetic Resonance spectroscopy and mathematical modeling for quantitative visualization and analysis of medium-sized biomolecular networks (dozens of reactions). 
+Systems NMR integrates Nuclear Magnetic Resonance spectroscopy and mathematical modeling for quantitative visualization and analysis of medium-sized biomolecular networks (dozens of reactions). 
 <!-- The concept was developed at [ETH Zürich](http://www.allainlab.ethz.ch/people/person-detail.html?persid=125247).
 -->
 
