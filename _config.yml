@@ -23,9 +23,9 @@ description: NMR-driven biomolecular network reconstructions
 
 # List of links in the navigation bar
 navbar-links:
-#  About: "about" ## RETURN and POLISH THIS ONE WHEN KNOW ITS GONNA BE ACCEPTED
-#  NMR models: "index.html"
-#  Tools: "tools"
+# About: "about" ## RETURN and POLISH THIS ONE WHEN KNOW ITS GONNA BE ACCEPTED
+NMR models: "index.html"
+Tools: "tools"
 #  l2: "cat2"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"

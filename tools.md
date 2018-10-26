@@ -22,9 +22,6 @@ subtitle: Computational tools for Systems NMR ( NMR-driven analysis and modeling
 
 ### Modeling
 
-#### 
 - BioNetGen
 - RuleBender
-
-#### 
 - PottersWheel
