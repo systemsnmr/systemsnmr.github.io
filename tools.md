@@ -22,6 +22,9 @@ subtitle: Computational tools for Systems NMR ( NMR-driven analysis and modeling
 
 ### Modeling
 
-- BioNetGen
-- RuleBender
-- PottersWheel
+##### Rule-Based network modeling
+- [BioNetGen](https://www.csb.pitt.edu/Faculty/Faeder/?page_id=409) - James Faeder lab
+- [RuleBender](http://visualizlab.org/rulebender) - G. Elisabeta Marai, iVRL lab
+
+##### Model selection, parameterization and uncertainty analysis
+- [PottersWheel](https://potterswheel.de) - by Thomas Maiwald, group of Jens Timmer, University of Freiburg
