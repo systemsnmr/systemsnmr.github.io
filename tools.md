@@ -27,4 +27,4 @@ subtitle: Computational tools for Systems NMR ( NMR-driven analysis and modeling
 - [RuleBender](http://visualizlab.org/rulebender) - G. Elisabeta Marai, iVRL lab
 
 ##### Model selection, parameterization and uncertainty analysis
-- [PottersWheel](https://potterswheel.de) - by Thomas Maiwald, group of Jens Timmer, University of Freiburg
+- [PottersWheel](https://potterswheel.de) - Thomas Maiwald, Jens Timmer lab, University of Freiburg
