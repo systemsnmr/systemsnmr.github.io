@@ -8,7 +8,7 @@ Systems NMR integrates Nuclear Magnetic Resonance spectroscopy and mathematical 
 <!-- The concept was developed at [ETH Zürich](http://www.allainlab.ethz.ch/people/person-detail.html?persid=125247).
 -->
 
-![Systems NMR vs Omics and Biochemistry](images/omics_sysnmr_bioc.png)
+![Systems NMR vs Omics and Biochemistry](/images/omics_sysnmr_bioc.png)
 <!-- ![image-title-here](/path/to/image.jpg){:class="img-responsive"} -->
 
 
