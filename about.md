@@ -8,6 +8,8 @@ Systems NMR integrates Nuclear Magnetic Resonance spectroscopy and mathematical 
 <!-- The concept was developed at [ETH Zürich](http://www.allainlab.ethz.ch/people/person-detail.html?persid=125247).
 -->
 
+<img src="images/omics_sysnmr_bioc.png">
+
 Key features of the method:
 1. Combines dynamic resolution of biochemical assays and multiplexing ability of "omics" methods. This permits quantification of multiple network fluxes using single-sample measurements. Other ways of obtaining the same information require either multiple biochemical experiments - each resolving dozens of time-points for one network component in one sample, or multiple “omics” experiments - each resolving concentrations of multiple molecules, but only at one or a few time-points at a time.
 
