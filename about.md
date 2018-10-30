@@ -13,4 +13,6 @@ Key features of the method:
 
 2. Permits to quantify in one sample at the same time: all elementary reaction types (catalysis, bimolecular interactions, unimolecular state changes) and main biomolecule classes (provided these are ≥ 10 µM in concentration and ≤ 50-100 kDa in size).
 
+<!--
 3. Does not require chemical modification of the observed molecules (e.g. with fluorescent tags).
+-->
