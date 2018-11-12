@@ -16,8 +16,8 @@ subtitle: Computational tools for Systems NMR ( NMR-driven analysis and modeling
 - [Automated processing and analysis of IVTNMR datasets] -- coming soon ..
 
 ##### Metabolite-protein interactions
-- [Python-based setup and processing of NMR experiments](https://github.com/systemsnmr/metabolite-interactions) -- soon ..
-- [MATLAB-based pipeline for analysis of interactions in ligand-detected NMR data](https://github.com/systemsnmr/metabolite-interactions) -- soon ..
+- Python-based [setup](https://github.com/systemsnmr/metabolite-interactions/tree/master/1_NMR_setup) and [processing](https://github.com/systemsnmr/metabolite-interactions/tree/master/2_NMR_processing) of NMR experiments
+- [MATLAB-based pipeline for analysis of interactions in ligand-detected NMR data](https://github.com/systemsnmr/metabolite-interactions/tree/master/3_Analysis)
 
 
 ### Modeling
