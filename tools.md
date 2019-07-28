@@ -11,9 +11,9 @@ subtitle: Computational tools for Systems NMR ( NMR-driven analysis and modeling
 ##### Automatic analysis of NMR titrations
 - [NMR mapper](http://nmrmapper.nmrhub.eu) (collaboration with Piotr Klukowski, Wrocław Uni Tech)
 
-##### In-Vitro-Transcription NMR (IVTNMR)
-- [Algorithmic design of RNA abortive products](https://github.com/systemsnmr/ivtnmr/tree/master/sample_prep)
-- [Automated processing and analysis of IVTNMR datasets](https://github.com/systemsnmr/ivtnmr)
+##### In-Vitro-Transcription NMR (IVTNMR) - RNA folding, transcription and RNA-protein interactions:
+- Automated [processing](https://github.com/systemsnmr/ivtnmr#data_processing) and [analysis](https://github.com/systemsnmr/ivtnmr#data_analysis) of IVTNMR datasets
+- [Algorithmic design of RNA abortive products](https://github.com/systemsnmr/ivtnmr#RNA_sequence_design)
 
 ##### Metabolite-protein interactions
 - Python-based [setup](https://github.com/systemsnmr/metabolite-interactions/tree/master/1_NMR_setup) and [processing](https://github.com/systemsnmr/metabolite-interactions/tree/master/2_NMR_processing) of NMR experiments
@@ -27,4 +27,5 @@ subtitle: Computational tools for Systems NMR ( NMR-driven analysis and modeling
 - [RuleBender](http://visualizlab.org/rulebender) - G. Elisabeta Marai, iVRL lab
 
 ##### Model selection, parameterization and uncertainty analysis
+- [Data2Dynamics](https://github.com/Data2Dynamics/d2d) - Andreas Raue, Jens Timmer lab, University of Freiburg
 - [PottersWheel](https://potterswheel.de) - Thomas Maiwald, Jens Timmer lab, University of Freiburg
